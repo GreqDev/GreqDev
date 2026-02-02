@@ -57,6 +57,6 @@ I specialize in creating immersive Minecraft server experiences, custom plugins,
 
 * **Discord:** <a href="https://discord.com/users/1280592534594392088">`1280592534594392088` (Click to Chat)</a>
 * **Instagram:** <a href="https://www.instagram.com/yusufchainn">@yusufchainn</a>
-* **Email:** `GreqDev@gmail.com` <p align="center">
+* **Email:** `info@ustaoyuncu.net`; <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GreqDev&label=Profile%20Views&color=0e75b6&style=flat" alt="GreqDev" />
 </p>
